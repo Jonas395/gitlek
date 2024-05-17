@@ -23,7 +23,7 @@ A paragraph has been formatted here :thinking:
 
 
 
-### A table for writers :Memo:
+### A table for writers :memo:
 
 | Text  | More text |
 | ----- | --------- |
