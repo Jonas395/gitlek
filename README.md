@@ -22,3 +22,11 @@
 A paragraph has been formatted here :thinking:
 
 
+
+### A table for writers :Memo:
+
+| Text  | More text |
+| ----- | --------- |
+| haha  | veri fun  |
+| jrtk  | uhawdguhj |
+| keyb  | oardmsash |
