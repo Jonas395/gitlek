@@ -1,4 +1,4 @@
-# gitlek
+# gitlek:
 
 
 
@@ -9,7 +9,7 @@
 <h2>This is also heading 2</h2>
 
 
-
+:clipboard:
 1. An item
 2. Another item
 3. Yet another item
@@ -18,6 +18,6 @@
 
 
 
-A paragraph has been formatted here
+A paragraph has been formatted here :thinking:
 
 
